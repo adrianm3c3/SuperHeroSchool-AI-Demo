@@ -1,0 +1,47 @@
+[
+  {
+    "prompt": "You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?",
+    "options": [
+      { "text": "Divide tasks and assign roles to your teammates.", "tags": ["leadership", "strategy"] },
+      { "text": "Rush to complete the objective solo to prove your skills.", "tags": ["ambition", "bravery"] },
+      { "text": "Wait for the instructor’s guidance before moving.", "tags": ["obedience", "caution"] },
+      { "text": "Improvise based on the situation moment to moment.", "tags": ["creativity", "flexibility"] }
+    ]
+  },
+  {
+    "prompt": "Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?",
+    "options": [
+      { "text": "Call them out publicly and demand a redo.", "tags": ["justice", "bravery"] },
+      { "text": "Report them quietly to the instructor.", "tags": ["obedience", "caution"] },
+      { "text": "Let it go. Winning isn’t everything.", "tags": ["kindness", "sportsmanship"] },
+      { "text": "Beat them anyway to prove you’re better.", "tags": ["ambition", "focus"] }
+    ]
+  },
+  {
+    "prompt": "You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?",
+    "options": [
+      { "text": "Search for clues and reconstruct what happened.", "tags": ["strategy", "logic"] },
+      { "text": "Call backup immediately and secure the perimeter.", "tags": ["caution", "leadership"] },
+      { "text": "Assume it’s a test and do nothing.", "tags": ["obedience", "doubt"] },
+      { "text": "Start interrogating nearby staff for answers.", "tags": ["aggression", "urgency"] }
+    ]
+  },
+  {
+    "prompt": "A new student with unstable powers panics in the cafeteria. What do you do?",
+    "options": [
+      { "text": "Calm them down and try to understand what's wrong.", "tags": ["empathy", "patience"] },
+      { "text": "Use your powers to contain the situation safely.", "tags": ["control", "leadership"] },
+      { "text": "Back away and let the staff handle it.", "tags": ["caution", "obedience"] },
+      { "text": "Make a loud noise to shock them into stopping.", "tags": ["impulsiveness", "bravery"] }
+    ]
+  },
+  {
+    "prompt": "You’re chosen to give a speech to represent your class. How do you prepare?",
+    "options": [
+      { "text": "Write a heartfelt message about unity and growth.", "tags": ["teamwork", "inspiration"] },
+      { "text": "Practice a powerful speech to show off your leadership.", "tags": ["ambition", "leadership"] },
+      { "text": "Wing it with a few cool jokes to stay relaxed.", "tags": ["creativity", "confidence"] },
+      { "text": "Ask someone else to take your place.", "tags": ["avoidance", "modesty"] }
+    ]
+  }
+]

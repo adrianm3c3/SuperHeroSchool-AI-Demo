@@ -1,0 +1,47 @@
+[
+  {
+    "prompt": "It's your first day at Hero Academy, and your class is suddenly put through a surprise training simulation. A villain hologram appears and challenges you to a duel! What do you do?",
+    "options": [
+      { "text": "Charge in and attack head-on.", "tags": ["aggression", "bravery"] },
+      { "text": "Analyze the villain's weaknesses before making a move.", "tags": ["strategy"] },
+      { "text": "Work together with your classmates to come up with a strategy.", "tags": ["strategy"] },
+      { "text": "Try to talk your way out of the fight.", "tags": ["diplomacy", "caution"] }
+    ]
+  },
+  {
+    "prompt": "During combat training, your teammate is struggling against a powerful opponent. The instructor watches closely to see what you'll do. How do you respond?",
+    "options": [
+      { "text": "Jump in and help your teammate immediately.", "tags": ["teamwork", "empathy"] },
+      { "text": "Give them advice from the sidelines but let them fight their own battle.", "tags": ["independence", "caution"] },
+      { "text": "Distract the opponent so your teammate can get the upper hand.", "tags": ["creativity", "teamwork", "empathy"] },
+      { "text": "Trust that they’ll figure it out and focus on your own training.", "tags": ["independence", "obedience"] }
+    ]
+  },
+  {
+    "prompt": "During team exercises, one of your classmates loses control of their powers and accidentally blasts a hole in the ceiling. The instructor is watching. How do you react?",
+    "options": [
+      { "text": "Step in and take control of the situation.", "tags": ["leadership"] },
+      { "text": "Blame your classmate for being careless.", "tags": ["criticism", "impulsiveness"] },
+      { "text": "Calm everyone down and offer help.", "tags": ["teamwork", "empathy"] },
+      { "text": "Pretend nothing happened and walk away.", "tags": ["avoidance"] }
+    ]
+  },
+  {
+    "prompt": "Your class is sent on a night patrol exercise when you hear an alarm go off at a nearby bank. A group of masked criminals is trying to break into the vault. What’s your plan?",
+    "options": [
+      { "text": "Confront them directly and fight.", "tags": ["aggression", "bravery"] },
+      { "text": "Sneak around and gather intel before acting.", "tags": ["strategy", "caution"] },
+      { "text": "Alert your instructor and wait for backup.", "tags": ["obedience", "caution"] },
+      { "text": "Use your powers to set a trap for the criminals.", "tags": ["creativity", "strategy"] }
+    ]
+  },
+  {
+    "prompt": "You're sent on a mission simulation in the city. Suddenly, a civilian cries for help—someone is trapped under rubble. Your team leader tells you to stick to the objective. What do you do?",
+    "options": [
+      { "text": "Abandon the mission and go save the civilian.", "tags": ["teamwork", "empathy"] },
+      { "text": "Try to convince the team to help together.", "tags": ["teamwork", "empathy"] },
+      { "text": "Secretly break off and help while the others move on.", "tags": ["teamwork", "empathy"] },
+      { "text": "Follow the leader's orders and ignore the call for help.", "tags": ["obedience", "teamwork", "empathy", "caution"] }
+    ]
+  }
+]

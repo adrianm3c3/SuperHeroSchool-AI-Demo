@@ -1,0 +1,47 @@
+
+============================================================
+New Session Start: 2025-04-03 13:48:46
+Student: Gabriela B, Grade 6
+============================================================
+
+[13:48:50] Submission:
+  Choice: 1
+  Reason: a
+  Tag: aggression_bravery
+
+[13:48:54] Submission:
+  Choice: 3
+  Reason: a
+  Tag: creativity_empathy_teamwork
+
+[13:48:58] Submission:
+  Choice: 4
+  Reason: a
+  Tag: caution_diplomacy
+
+[13:49:01] Submission:
+  Choice: 4
+  Reason: a
+  Tag: creativity_strategy
+
+[13:49:04] Submission:
+  Choice: 4
+  Reason: a
+  Tag: diplomacy_obedience
+
+==================================================
+Final Prediction: caution_diplomacy
+
+Model Scenario Breakdown:
+1. You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?
+   → Model Chose: Divide tasks and assign roles to your teammates. [creativity_empathy_teamwork] (Confidence: 0.23)
+2. Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?
+   → Model Chose: Call them out publicly and demand a redo. [caution_diplomacy] (Confidence: 0.25)
+3. You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?
+   → Model Chose: Call backup immediately and secure the perimeter. [caution_diplomacy] (Confidence: 0.25)
+4. A new student with unstable powers panics in the cafeteria. What do you do?
+   → Model Chose: Use your powers to contain the situation safely. [creativity_strategy] (Confidence: 0.23)
+5. You’re chosen to give a speech to represent your class. How do you prepare?
+   → Model Chose: Ask someone else to take your place. [caution_diplomacy] (Confidence: 0.25)
+
+Session End: 2025-04-03 13:49:05

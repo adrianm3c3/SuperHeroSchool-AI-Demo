@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Comic Scenario Viewer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  <style>
+    
+    * {
+        box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Bangers', cursive;
+      background: repeating-linear-gradient(45deg, #a3e4ff, #a3e4ff 20px, #87ceeb 20px, #87ceeb 40px);
+      height: 100vh;
+      /*display:grid;
+      display: flex;
+      height: 100vh;
+      align-items: center;
+      justify-content: center;
+      overflow: auto;
+      overflow: auto;*/
+    }
+
+    .header {
+        grid-area: header;
+        background-color: #333;
+        height: 40px;
+        width: 100%;
+        opacity: .9;
+        margin-bottom: 10px;
+        overflow: hidden;
+    }
+    .header a.logo {
+        margin: 0;
+        padding: 5px 10px;
+        font-size: 30px;
+        color: #d60000;
+        text-transform: uppercase;
+        text-align: center;
+        float: left;
+    }
+    
+    .header a.logo:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+    .header a{
+        float: left;
+        padding: 5px 10px;
+        text-align: center;
+        font-size: 28;
+        color: white; 
+        text-decoration: none;
+    }
+    .header a.active{
+        color: #d60000;
+    }
+    .header a:hover{
+        color: #d60000;
+    }
+
+    /* The grid container */
+    .grid-container {
+    display: grid;
+    grid-template-areas: 
+        'left left left left right right';
+    /* grid-column-gap: 10px; - if you want gap between the columns */
+    } 
+
+    .left,
+    .middle,
+    .right {
+        padding: 10px;
+        min-width: 400px;
+        height: 100px;  /*Should be removed. Only for demonstration */
+    }
+
+    /* Style the left column */
+    .left {
+        grid-area: left;
+    }
+
+    /* Style the middle column */
+    .middle {
+        grid-area: middle;
+    }
+
+    /* Style the right column */
+    .right {
+        grid-area: right;
+        
+    }
+
+    /* Style the footer */
+    .footer {
+        grid-area: footer;
+        background-color: #f1f1f1;
+        padding: 10px;
+        text-align: center;
+    }
+
+    /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+    @media (max-width: 600px) {
+        .grid-container  {
+            grid-template-areas:  
+            'left left left left left left' 
+            'right right right right right right' 
+            'footer footer footer footer footer footer';
+        }
+    }
+
+    .container{
+        background-color: white;
+        align-content: center;
+        justify-content: center;
+        display: flex;
+        border-radius: 16px;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        border: 5px solid black;
+        overflow: auto;
+        padding: 20px;
+    }
+    .container img{
+        width: 80%;
+
+    }
+    /*
+    .comic-container {
+      background: white;
+      width: 100%;
+      height: 100%;
+      /*max-width: 1000px;
+      max-height: 600px;
+      border-radius: 16px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+      /*display: flex;
+      flex-direction: column;
+      overflow: scroll;
+      border: 5px solid black;
+      animation: fadeIn 0.6s ease;
+      padding: 20px;
+      column-span: 2;
+    }
+
+    
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
+
+    .left-panel {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .right-panel {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 30px;
+    }
+
+    .right-panel img {
+      max-width: 300px;
+      border-radius: 12px;
+      border: 4px solid black;
+    }
+    */
+    h1 {
+        column-span:all;
+        font-size: 48px;
+        color: #d60000;
+        margin-bottom: 20px;
+        text-shadow: 2px 2px 0 #000;
+    }
+
+    .submit-btn {
+      margin-top: 25px;
+      background-color: #000;
+      color: #fff;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 10px;
+    }
+
+    .submit-btn:hover {
+      background-color: #222;
+    }
+
+  </style>
+</head>
+<body>
+    <div class="header">
+        <a class="logo" href="/">Superhero School</a>
+        <a class="logo" href="login">Login</a>
+    </div>
+ 
+    <div class="grid-container">
+    
+        <div class="left">
+            <div class="container">
+                <img src="/static/images/comic-cover.png" alt="Hero Image">
+            </div>
+        </div>
+        <div class="right">
+           
+            <div class="container">
+                Log in to get started!
+                <button class="submit-btn" style="font-family:inherit" onclick="location.href='login'">Login</button>
+            </div>
+        </div>  
+    </div>
+    
+</body>
+</html>
+

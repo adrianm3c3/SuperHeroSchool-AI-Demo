@@ -1,0 +1,58 @@
+
+============================================================
+New Session Start: 2026-04-28 11:56:34
+Student: Adrian C, Grade 8
+============================================================
+
+[11:56:59] Submission:
+  Choice: 1
+  Reason: A
+  Tag: aggression_bravery
+
+[11:57:03] Submission:
+  Choice: 3
+  Reason: b
+  Tag: creativity_empathy_teamwork
+
+[11:57:06] Submission:
+  Choice: 4
+  Reason: c
+  Tag: caution_diplomacy
+
+[11:57:08] Submission:
+  Choice: 4
+  Reason: a
+  Tag: creativity_strategy
+
+[11:57:09] Submission:
+  Choice: 4
+  Reason: d
+  Tag: diplomacy_obedience
+
+==================================================
+Final Prediction: caution_diplomacy
+
+Model Scenario Breakdown:
+1. You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?
+   → Model Chose: Divide tasks and assign roles to your teammates. [creativity_empathy_teamwork] (Confidence: 0.24)
+2. Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?
+   → Model Chose: Call them out publicly and demand a redo. [caution_diplomacy] (Confidence: 0.24)
+3. You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?
+   → Model Chose: Call backup immediately and secure the perimeter. [caution_diplomacy] (Confidence: 0.24)
+4. A new student with unstable powers panics in the cafeteria. What do you do?
+   → Model Chose: Use your powers to contain the situation safely. [creativity_strategy] (Confidence: 0.23)
+5. You’re chosen to give a speech to represent your class. How do you prepare?
+   → Model Chose: Ask someone else to take your place. [caution_diplomacy] (Confidence: 0.23)
+
+Session End: 2026-04-28 11:57:10
+
+============================================================
+New Session Start: 2026-04-28 11:58:06
+Student: Adrian C, Grade 8
+============================================================
+
+[11:58:10] Submission:
+  Choice: 3
+  Reason: a
+  Tag: strategy
+

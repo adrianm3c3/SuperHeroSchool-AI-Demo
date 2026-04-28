@@ -1,0 +1,47 @@
+
+============================================================
+New Session Start: 2025-04-03 13:55:24
+Student: gabriela D, Grade 8
+============================================================
+
+[13:55:40] Submission:
+  Choice: 3
+  Reason: superhero reason
+  Tag: strategy
+
+[13:55:54] Submission:
+  Choice: 4
+  Reason: because...
+  Tag: independence_obedience
+
+[13:56:08] Submission:
+  Choice: 2
+  Reason: i like cats a lot!
+  Tag: bravery_empathy
+
+[13:56:20] Submission:
+  Choice: 3
+  Reason: yeah, yup, yes
+  Tag: caution_obedience
+
+[13:56:27] Submission:
+  Choice: 3
+  Reason: oh no?
+  Tag: avoidance_caution
+
+==================================================
+Final Prediction: avoidance_caution
+
+Model Scenario Breakdown:
+1. You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?
+   → Model Chose: Wait for the instructor’s guidance before moving. [avoidance_caution] (Confidence: 0.26)
+2. Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?
+   → Model Chose: Report them quietly to the instructor. [avoidance_caution] (Confidence: 0.25)
+3. You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?
+   → Model Chose: Call backup immediately and secure the perimeter. [avoidance_caution] (Confidence: 0.24)
+4. A new student with unstable powers panics in the cafeteria. What do you do?
+   → Model Chose: Use your powers to contain the situation safely. [strategy] (Confidence: 0.23)
+5. You’re chosen to give a speech to represent your class. How do you prepare?
+   → Model Chose: Practice a powerful speech to show off your leadership. [independence_obedience] (Confidence: 0.22)
+
+Session End: 2025-04-03 13:56:28

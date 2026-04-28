@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "It's your first day at Hero Academy, and your class is suddenly put through a surprise training simulation. A villain hologram appears and challenges you to a duel! What do you do?",
+    "options": [
+      { "text": "Charge in and attack head-on.", "tags": ["aggression", "bravery"] },
+      { "text": "Analyze the villain's weaknesses before making a move.", "tags": ["strategy"] },
+      { "text": "Work together with your classmates to come up with a strategy.", "tags": ["strategy"] },
+      { "text": "Try to talk your way out of the fight.", "tags": ["diplomacy", "caution"] }
+    ],
+    "imagePath": "/static/images/hologram.png"
+  },
+  {
+    "prompt": "During combat training, your teammate is struggling against a powerful opponent. The instructor watches closely to see what you'll do. How do you respond?",
+    "options": [
+      { "text": "Jump in and help your teammate immediately.", "tags": ["teamwork", "empathy"] },
+      { "text": "Give them advice from the sidelines but let them fight their own battle.", "tags": ["independence", "caution"] },
+      { "text": "Distract the opponent so your teammate can get the upper hand.", "tags": ["creativity", "teamwork", "empathy"] },
+      { "text": "Trust that they’ll figure it out and focus on your own training.", "tags": ["independence", "obedience"] }
+    ],
+    "imagePath": "/static/images/help-classmate.png"
+  },
+  {
+    "prompt": "Your class is patrolling through town, when you notice an old woman calling her cat down from a tree. It's stuck! What do you do?",
+    "options": [
+      { "text": "Leave the cat alone, it probably knows how to get down.", "tags": ["avoidance"] },
+      { "text": "Get to the top of the tree somehow and carry the cat down.", "tags": ["empathy", "bravery"] },
+      { "text": "Uproot the tree and shake the cat off into the owner's arms.", "tags": ["impulsiveness", "aggression"] },
+      { "text": "Call the fire department, they can handle it.", "tags": ["diplomacy", "caution"] }
+    ],
+    "imagePath": "/static/images/cat-tree.png"
+  },
+  {
+    "prompt": "Your class is sent on a night patrol exercise when you hear an alarm go off at a nearby bank. A group of masked criminals is trying to break into the vault. What’s your plan?",
+    "options": [
+      { "text": "Confront them directly and fight.", "tags": ["aggression", "bravery"] },
+      { "text": "Sneak around and gather intel before acting.", "tags": ["strategy", "caution"] },
+      { "text": "Alert your instructor and wait for backup.", "tags": ["obedience", "caution"] },
+      { "text": "Use your powers to set a trap for the criminals.", "tags": ["creativity", "strategy"] }
+    ],
+    "imagePath": "/static/images/stop-thief.png"
+  },
+  {
+    "prompt": "Emergency in town! All heros needed for a giant slime monster attacking the city. How will you respond?",
+    "options": [
+      { "text": "Assess your classmates strengths and make a detailed plan of action.", "tags": ["teamwork", "leadership"] },
+      { "text": "Just wing it. Everyone knows what they're doing.", "tags": ["independence", "impulsiveness", "aggression"] },
+      { "text": "Stay home! We are only in training and could get in the way.", "tags": ["caution", "avoidance"] },
+      { "text": "Show up to the scene, but wait for instructions from the professionals.", "tags": ["obedience", "diplomacy"] }
+    ],
+    "imagePath": "/static/images/monster-city.png"
+  }
+]

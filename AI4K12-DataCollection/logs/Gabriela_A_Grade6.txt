@@ -1,0 +1,28 @@
+
+============================================================
+New Session Start: 2025-04-03 13:46:16
+Student: Gabriela A, Grade 6
+============================================================
+
+==================================================
+Final Prediction: aggression_bravery
+
+Model Scenario Breakdown:
+1. You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?
+   → Model Chose: Improvise based on the situation moment to moment. [aggression_bravery] (Confidence: 0.36)
+2. Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?
+   → Model Chose: Call them out publicly and demand a redo. [aggression_bravery] (Confidence: 0.44)
+3. You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?
+   → Model Chose: Search for clues and reconstruct what happened. [aggression_bravery] (Confidence: 0.42)
+4. A new student with unstable powers panics in the cafeteria. What do you do?
+   → Model Chose: Use your powers to contain the situation safely. [aggression_bravery] (Confidence: 0.42)
+5. You’re chosen to give a speech to represent your class. How do you prepare?
+   → Model Chose: Practice a powerful speech to show off your leadership. [aggression_bravery] (Confidence: 0.39)
+
+Session End: 2025-04-03 13:46:17
+
+============================================================
+New Session Start: 2025-04-03 13:48:28
+Student: Gabriela A, Grade 6
+============================================================
+

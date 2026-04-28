@@ -1,0 +1,22 @@
+
+============================================================
+New Session Start: 2025-04-03 13:20:43
+Student: Bee D, Grade 6
+============================================================
+
+==================================================
+Final Prediction: caution_obedience
+
+Model Scenario Breakdown:
+1. You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?
+   → Model Chose: Wait for the instructor’s guidance before moving. [caution_obedience] (Confidence: 0.27)
+2. Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?
+   → Model Chose: Report them quietly to the instructor. [caution_obedience] (Confidence: 0.27)
+3. You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?
+   → Model Chose: Call backup immediately and secure the perimeter. [caution_obedience] (Confidence: 0.24)
+4. A new student with unstable powers panics in the cafeteria. What do you do?
+   → Model Chose: Make a loud noise to shock them into stopping. [empathy_teamwork] (Confidence: 0.22)
+5. You’re chosen to give a speech to represent your class. How do you prepare?
+   → Model Chose: Ask someone else to take your place. [caution_obedience] (Confidence: 0.22)
+
+Session End: 2025-04-03 13:20:44

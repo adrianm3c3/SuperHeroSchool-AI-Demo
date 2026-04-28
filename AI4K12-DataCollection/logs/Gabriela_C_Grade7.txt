@@ -1,0 +1,47 @@
+
+============================================================
+New Session Start: 2025-04-03 13:49:27
+Student: Gabriela C, Grade 7
+============================================================
+
+[13:49:37] Submission:
+  Choice: 2
+  Reason: Reason 1
+  Tag: strategy
+
+[13:49:43] Submission:
+  Choice: 2
+  Reason: Reason 2
+  Tag: caution_independence
+
+[13:49:50] Submission:
+  Choice: 2
+  Reason: Reason 3
+  Tag: bravery_empathy
+
+[13:54:22] Submission:
+  Choice: 3
+  Reason: Next reason
+  Tag: caution_obedience
+
+[13:54:33] Submission:
+  Choice: 2
+  Reason: This reason also
+  Tag: aggression_impulsiveness_independence
+
+==================================================
+Final Prediction: aggression_impulsiveness_independence
+
+Model Scenario Breakdown:
+1. You’re asked to lead your team in a simulated city rescue operation. There are multiple objectives, and time is limited. What’s your approach?
+   → Model Chose: Wait for the instructor’s guidance before moving. [aggression_impulsiveness_independence] (Confidence: 0.27)
+2. Your rival cheats during a competitive obstacle course. The instructor didn’t notice. What do you do?
+   → Model Chose: Report them quietly to the instructor. [aggression_impulsiveness_independence] (Confidence: 0.25)
+3. You're sent to investigate a mysterious lab breach. Security footage is missing. What’s your move?
+   → Model Chose: Call backup immediately and secure the perimeter. [aggression_impulsiveness_independence] (Confidence: 0.24)
+4. A new student with unstable powers panics in the cafeteria. What do you do?
+   → Model Chose: Back away and let the staff handle it. [caution_obedience] (Confidence: 0.22)
+5. You’re chosen to give a speech to represent your class. How do you prepare?
+   → Model Chose: Wing it with a few cool jokes to stay relaxed. [caution_obedience] (Confidence: 0.22)
+
+Session End: 2025-04-03 13:54:33
