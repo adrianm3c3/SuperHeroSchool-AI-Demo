@@ -1,7 +1,7 @@
-# 🦸 Hero Type Predictor
+# 🦸 SuperHeroSchool AI Demo
 
 An interactive scenario-based quiz that uses machine learning to analyze 
-a student's decision-making style and predict their "hero type."
+a student's decision making style and predict their  hero type. 
 
 ---
 
@@ -30,6 +30,8 @@ a student's decision-making style and predict their "hero type."
 ---
 
 ## 🗂️ Project Structure
+
+```
 AI4K12-DataCollection/
 ├── server.py                  # Flask web server + routes
 ├── scripts/
@@ -45,7 +47,7 @@ AI4K12-DataCollection/
 │   └── index.html
 ├── screenshots/               # README screenshots
 └── logs/                      # Auto-generated student session logs
----
+```
 
 ## ⚙️ Setup & Installation
 
