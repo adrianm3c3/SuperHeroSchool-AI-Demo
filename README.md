@@ -7,14 +7,13 @@ a student's decision making style and predict their  hero type.
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="45%" />
-  <img src="screenshots/login.png" width="45%" />
-</p>
-<p align="center">
-  <img src="screenshots/quiz.png" width="45%" />
-  <img src="screenshots/results.png" width="45%" />
-</p>
+| Home | Login |
+|------|-------|
+| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) |
+
+| Quiz | Results |
+|------|---------|
+| ![Quiz](screenshots/quiz.png) | ![Results](screenshots/results.png) |
 
 ---
 
