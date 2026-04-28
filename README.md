@@ -7,8 +7,6 @@ a student's decision making style and predict their  hero type.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <th>Home</th>
@@ -23,7 +21,7 @@ a student's decision making style and predict their  hero type.
     <th>Results</th>
   </tr>
   <tr>
-    <td><img src="screenshots/quiz.png" width="375"></td>
+    <td><img src="screenshots/quiz.png" width="800"></td>
     <td><img src="screenshots/results.png" width="800"></td>
   </tr>
 </table>
