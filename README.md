@@ -1,7 +1,8 @@
 # 🦸 SuperHeroSchool AI Demo
 
 An interactive scenario-based quiz that uses machine learning to analyze 
-a student's decision making style and predict their  hero type. 
+a student's decision-making style and predict their hero type. The project is 
+designed to teach K-12 students core AI concepts through a superhero-themed activity.
 
 ---
 
