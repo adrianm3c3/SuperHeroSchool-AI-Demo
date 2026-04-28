@@ -24,7 +24,7 @@ a student's decision making style and predict their  hero type.
   </tr>
   <tr>
     <td><img src="screenshots/quiz.png" width="375"></td>
-    <td><img src="screenshots/results.png" width="375"></td>
+    <td><img src="screenshots/results.png" width="800"></td>
   </tr>
 </table>
 
